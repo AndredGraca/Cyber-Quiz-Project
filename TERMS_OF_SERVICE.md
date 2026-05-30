@@ -1,0 +1,85 @@
+# Terms of Service for ExamMusicVideo
+
+Last updated: 30 May 2026
+
+These Terms of Service govern your access to and use of ExamMusicVideo, including any related website, application, features, content creation tools, and TikTok integration features made available by ExamMusicVideo.
+
+By using ExamMusicVideo, you agree to these Terms. If you do not agree, you must not use the service.
+
+## 1. About ExamMusicVideo
+
+ExamMusicVideo is an application operated under the alias John Tech. It helps users create, manage, or publish music related video content. Some features may connect with TikTok APIs or other third party services, when enabled by the user.
+
+ExamMusicVideo is not owned by, endorsed by, or affiliated with TikTok, ByteDance, or any related company.
+
+## 2. Eligibility
+
+You must be legally able to enter into these Terms and use the service in accordance with all applicable laws. If you use ExamMusicVideo on behalf of an organisation, you confirm that you have authority to bind that organisation to these Terms.
+
+## 3. User accounts and security
+
+You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs through your account. You must notify us promptly if you believe your account has been accessed without authorisation.
+
+## 4. User content
+
+You are responsible for any text, images, videos, music, audio, metadata, captions, or other material that you upload, create, process, or publish through ExamMusicVideo.
+
+You confirm that you own your content or have all rights, licences, permissions, and consents required to use, edit, upload, and publish that content.
+
+You must not upload or publish content that is unlawful, harmful, abusive, misleading, infringing, defamatory, hateful, or otherwise violates the rights of any person or platform.
+
+By using ExamMusicVideo, you grant us a limited, worldwide, royalty free licence to host, process, display, transmit, and modify your content only as needed to operate and improve the service, provide requested features, troubleshoot issues, and comply with legal obligations.
+
+## 5. TikTok integration
+
+If you choose to connect ExamMusicVideo with TikTok, you authorise ExamMusicVideo to use TikTok APIs only for the purposes shown to you in the app, such as authentication, content preparation, content posting, or other approved features.
+
+Your use of TikTok remains subject to TikTok terms, policies, community guidelines, and developer requirements. You must not use ExamMusicVideo to bypass TikTok rules, automate prohibited activity, manipulate engagement, scrape data without permission, or publish content without the required rights and consent.
+
+You may disconnect TikTok access through the app, through TikTok settings, or by contacting us.
+
+## 6. Acceptable use
+
+You agree not to misuse ExamMusicVideo. You must not attempt to access systems without permission, disrupt the service, reverse engineer protected parts of the service, introduce malware, harvest data without authorisation, violate intellectual property rights, impersonate others, or use the service for illegal or harmful activity.
+
+## 7. Intellectual property
+
+ExamMusicVideo, including its software, design, branding, documentation, and related materials, is owned by us or our licensors. Except for the rights expressly granted in these Terms, no rights are transferred to you.
+
+You keep ownership of your own content, subject to the licence described in these Terms.
+
+## 8. Third party services
+
+ExamMusicVideo may integrate with services operated by third parties, including TikTok. We are not responsible for third party services, their availability, their policies, or their handling of data. Your use of those services is governed by their own terms and policies.
+
+## 9. Privacy
+
+Our collection and use of personal data is described in our Privacy Policy. You should review the Privacy Policy before using the service or connecting a third party account.
+
+## 10. Availability and changes
+
+We may modify, suspend, or discontinue any part of ExamMusicVideo at any time. We may also update these Terms from time to time. The updated Terms will apply from the date they are posted, unless a later date is stated.
+
+## 11. Termination
+
+We may suspend or terminate your access to ExamMusicVideo if you violate these Terms, create risk for the service or other users, or if required by law or platform rules. You may stop using the service at any time.
+
+## 12. Disclaimers
+
+ExamMusicVideo is provided on an as is and as available basis. To the maximum extent permitted by law, we make no warranties that the service will be uninterrupted, error free, secure, or suitable for any particular purpose.
+
+## 13. Limitation of liability
+
+To the maximum extent permitted by law, ExamMusicVideo and its operators will not be liable for indirect, incidental, special, consequential, or punitive damages, or for loss of profits, data, goodwill, or business opportunities arising from your use of the service.
+
+Nothing in these Terms limits liability where it would be unlawful to do so.
+
+## 14. Governing law
+
+These Terms are governed by the laws of Portugal, unless mandatory consumer protection rules in your country require otherwise.
+
+## 15. Contact
+
+For questions about these Terms, contact John Tech at:
+
+andreplayon@gmail.com
